@@ -4,5 +4,7 @@ I am a software developer, computer science student, and board gamer. I am curre
 
 ## Welcome to my website. Here, you will find an overview of my work and interests.
 
+Right now, I'm testing which folder the script is dropping stuff into on my host...
+
 ## Interested in working together? Let's connect!
 
