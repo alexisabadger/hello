@@ -27,4 +27,3 @@ jobs:
         server: ftp.imalexmcintire.com
         username: ${{ secrets.ftpusername }}
         password: ${{ secrets.ftppassword }}
-        server-dir: /public_html/
